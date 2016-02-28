@@ -42,6 +42,8 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 
+* **bootstrap-sprockets does not work on Heroku, with NO clear error message**. As the result, the **delete** method only worked on localhost. After spending 1.5 hours trying tons of things, it finally worked when I switched to bootstrap.min.
+
 ## License
 
     Copyright 2016 Minh Nguyen
