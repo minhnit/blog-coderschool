@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Route root to articles/index path.
+- [X] Route root to articles/index path.
 
 ## Video Walkthrough 
 
